@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>imagenes</name>
+			<type>2</type>
+			<location>/Users/rubenlabrador/Documents/workspace/practica_IA_01 (2)/resources/imagenes</location>
+		</link>
+	</linkedResources>
 </projectDescription>
